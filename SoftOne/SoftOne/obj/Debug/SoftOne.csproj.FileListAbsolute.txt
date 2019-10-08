@@ -1,0 +1,14 @@
+C:\Users\CDA-Imoreno\source\repos\SoftOne\SoftOne\bin\Debug\SoftOne.exe.config
+C:\Users\CDA-Imoreno\source\repos\SoftOne\SoftOne\bin\Debug\SoftOne.exe
+C:\Users\CDA-Imoreno\source\repos\SoftOne\SoftOne\bin\Debug\SoftOne.pdb
+C:\Users\CDA-Imoreno\source\repos\SoftOne\SoftOne\obj\Debug\SoftOne.csprojAssemblyReference.cache
+C:\Users\CDA-Imoreno\source\repos\SoftOne\SoftOne\obj\Debug\SoftOne.Login.resources
+C:\Users\CDA-Imoreno\source\repos\SoftOne\SoftOne\obj\Debug\SoftOne.Properties.Resources.resources
+C:\Users\CDA-Imoreno\source\repos\SoftOne\SoftOne\obj\Debug\SoftOne.csproj.GenerateResource.cache
+C:\Users\CDA-Imoreno\source\repos\SoftOne\SoftOne\obj\Debug\SoftOne.csproj.CoreCompileInputs.cache
+C:\Users\CDA-Imoreno\source\repos\SoftOne\SoftOne\obj\Debug\SoftOne.exe
+C:\Users\CDA-Imoreno\source\repos\SoftOne\SoftOne\obj\Debug\SoftOne.pdb
+C:\Users\CDA-Imoreno\source\repos\SoftOne\SoftOne\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\CDA-Imoreno\source\repos\SoftOne\SoftOne\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\CDA-Imoreno\source\repos\SoftOne\SoftOne\obj\Debug\SoftOne.csproj.CopyComplete
+C:\Users\CDA-Imoreno\source\repos\SoftOne\SoftOne\obj\Debug\SoftOne.Registro.resources
